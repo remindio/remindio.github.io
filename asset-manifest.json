@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.2ceac902.css",
-    "main.js": "/static/js/main.0f66376f.js",
-    "static/media/paper.pdf": "/static/media/paper.6e8490652fc899c726c7.pdf",
+    "main.js": "/static/js/main.84c84aad.js",
+    "static/media/slides.pdf": "/static/media/slides.3dbecf645acde343ef64.pdf",
+    "static/media/paper.pdf": "/static/media/paper.133eff58abcbda27caaa.pdf",
+    "static/media/poster.pdf": "/static/media/poster.f9d66a96ac5383446212.pdf",
     "static/media/ps.png": "/static/media/ps.cd4b3c3b89eb36038aea.png",
     "static/media/ime.svg": "/static/media/ime.8edcac54accb0fee97c8060af97a9e3b.svg",
     "static/media/dl.jpg": "/static/media/dl.d24971d4a8dc288dea12.jpg",
@@ -12,10 +14,10 @@
     "index.html": "/index.html",
     "static/media/figma.svg": "/static/media/figma.9f2f50d5053a2935b522f3700e7ff421.svg",
     "main.2ceac902.css.map": "/static/css/main.2ceac902.css.map",
-    "main.0f66376f.js.map": "/static/js/main.0f66376f.js.map"
+    "main.84c84aad.js.map": "/static/js/main.84c84aad.js.map"
   },
   "entrypoints": [
     "static/css/main.2ceac902.css",
-    "static/js/main.0f66376f.js"
+    "static/js/main.84c84aad.js"
   ]
 }
